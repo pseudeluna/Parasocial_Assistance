@@ -5,21 +5,25 @@
 ##  Disclaimer 
 
 **This project exists purely because I was bored. It's on windows only btw cuz this is a self-indulgent pj idc.** 💖
+![alt text](image.png)
 
 ---
 
 ##  What is this????!!???
 
-**Parasocial Assist** is a small Python desktop application that:
+**Parasocial Assist** can errhhhmmm:
 
-🥀 Automatically monitors a YouTube channel
-🥀 Checks for newly uploaded videos every 60 seconds
-🥀 Downloads new uploads automatically
-🥀 Lets you choose the download quality
-🥀 Lets you pick where videos are saved
-🥀 Plays a notification sound when downloads finish
+🥀 Automatically monitors a YouTube channel<br>
+🥀 Checks for newly uploaded videos every 60 seconds<br>
+🥀 Downloads new uploads automatically<br>
+🥀 Lets you choose the download quality<br>
+🥀 Lets you pick where videos are saved<br>
+🥀 Plays a notification sound when downloads finish<br>
 
 Basically, it's a tiny assistant for your completely normal and definitely not parasocial relationship with your fave (ehe 🥺)
+
+![alt text](image-1.png) 
+![alt text](image-2.png)
 
 ---
 
@@ -38,31 +42,20 @@ cd parasocial-assist
 pip install -r requirements.txt
 ```
 ---
-
-##  Dependencies (my life is also depended on if my fave uploads anything rn btw)
-
-* pytubefix
-* aiohttp
-* aiohappyeyeballs
-* aiosignal
-* attrs
-* frozenlist
-* multidict
-* propcache
-* yarl
-* typing_extensions
-
----
-
 ## 💔🥀 Usage 🥀💔
 
 Run the application:
 
 ```bash
-python main.py / GUI.py <- any work. 
+python main.py
 ```
+or
+```bash
+python GUI.py
+```
+^ any work btw
 
-Or just download the exe ver like a normal human idk.
+Or just download the exe ver like a normal human idk. Point is I havent test thoroughly the exe ver tho so uh if it bugged out jst run the acoustic way. 
 
 ---
 
